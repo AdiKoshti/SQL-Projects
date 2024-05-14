@@ -37,9 +37,3 @@ MySQL and python project for analyzing UK road safty data, accidents and severit
 * Average Severity by vehicle type
 * Average Severity and Total Accidents by Motorcyle
 
-### Mid Summer Night Dream Project
-MySQL and python project for analyzing Shakespeare's Mid Summer Night Dream play texts and characters
-
-* loading information for analyzing purpose
-* calcuating performance different queriy types such as SELECT, INSERT, UPDATE, DELETE
-* manipulating plays and characters
